@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>ParserCompiler</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>src/c/CBaseListener.java</name>
+			<type>1</type>
+			<locationURI>PROJECT_LOC/bin/c/CBaseListener.java</locationURI>
+		</link>
+		<link>
+			<name>src/c/CLexer.java</name>
+			<type>1</type>
+			<locationURI>PROJECT_LOC/bin/c/CLexer.java</locationURI>
+		</link>
+		<link>
+			<name>src/c/CListener.java</name>
+			<type>1</type>
+			<locationURI>PROJECT_LOC/bin/c/CListener.java</locationURI>
+		</link>
+		<link>
+			<name>src/c/CParser.java</name>
+			<type>1</type>
+			<locationURI>PROJECT_LOC/bin/c/CParser.java</locationURI>
+		</link>
+	</linkedResources>
+</projectDescription>
